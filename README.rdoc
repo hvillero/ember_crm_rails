@@ -3,3 +3,7 @@
 Rails 4.1.2
 Ruby 2.1.2
 Ember 1.5
+
+app in heroku at:
+http://cryptic-savannah-7118.herokuapp.com
+
