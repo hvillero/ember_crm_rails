@@ -62,8 +62,9 @@ group :development, :test do
   gem 'database_cleaner', require: false
   gem 'timecop', require: false
   gem 'spring-commands-rspec'
-  gem 'ffaker'
 end
+
+gem 'ffaker'
 
 gem 'factory_girl_rails', :group => [:test, :development], require: false
 gem 'lorem-ipsum', :group => [:test, :development]
