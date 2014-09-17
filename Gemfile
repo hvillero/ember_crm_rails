@@ -69,6 +69,7 @@ gem 'factory_girl_rails', :group => [:test, :development], require: false
 gem 'lorem-ipsum', :group => [:test, :development]
 gem 'response_code_matchers', :group => [:test], require: false
 
+gem 'rails_12factor', group: :production
 
 
 # Use unicorn as the app server
